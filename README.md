@@ -1,4 +1,3 @@
 Quadu
 =====
 
-Quadu copter 
